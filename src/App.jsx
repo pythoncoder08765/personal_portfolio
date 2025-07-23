@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
-import { Navbar, Loader, Footer,About, Skills, Projects, Contact, Certificates  } from "./components/index.js";
+import { Navbar, Loader, Footer,About, Skills, Projects, Contact  } from "./components/index.js";
 import { GoArrowUp } from "react-icons/go";
 
 function App() {
