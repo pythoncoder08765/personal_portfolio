@@ -32,7 +32,7 @@ npm or yarn
 Installation
 Clone the repository:
 
-git clone https://github.com/pythoncoder08765/portfolio-website
+git clone https://github.com/pythoncoder08765/personal_portfolio
 Navigate to the project directory:
 
 cd portfolio
