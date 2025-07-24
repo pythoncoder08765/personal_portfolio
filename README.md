@@ -1,5 +1,9 @@
 # portfolio-website
 
+<img width="1845" height="785" alt="Screenshot 2025-07-24 152022" src="https://github.com/user-attachments/assets/e1cf571e-5948-4cb5-97d6-845553d2a0a1" />
+
+
+
 Overview
 
 This repository contains the code for my personal portfolio website built using React and styled with Tailwind CSS. The website includes multiple pages for showcasing various aspects of my professional profile, such as About, Skills, Projects, and Contact sections. It is fully responsive, ensuring an optimal viewing experience on mobile devices, tablets, and desktops.
